@@ -1,0 +1,43 @@
+# Project data directories
+data/
+notebooks/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# Data files
+*.wav
+*.mp3
+*.mp4
+
+# Logs
+logs/
+*.log
+
+# Mac
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/cspell.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# Model files
+*.pt
+*.onnx
+*.ckpt
