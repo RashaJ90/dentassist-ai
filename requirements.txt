@@ -8,3 +8,4 @@ uvicorn
 openai
 opencv-python
 python-dotenv
+pydub
